@@ -9,7 +9,7 @@ while (chute != numeroSecreto) {
     }
     else if (chute > numeroSecreto) 
     {
-        alert ('você errou! 💀 O número é menor que sua escolha ⬇️');
+        alert ('você errou! 💀 O número é MENOR que sua escolha ⬇️');
     }
     else if (chute < numeroSecreto){
         alert ('Você errou!💀 O número é MAIOR que sua escolha ⬆️');
